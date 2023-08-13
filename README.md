@@ -5,7 +5,11 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 3.0.0
+
+Для установки Ruby используем [rvm](https://rvm.io/rvm/install).  
+Для развертывания Rails нужно установить `apt install gem bundler sqlite3`  
+Разворачиваем командой `rails new test-guru`
 
 * System dependencies
 
